@@ -156,7 +156,8 @@ APIهای معرفی شده در دسته بندی های خاصی مرتب شد
 ## تقویم و اوقات شرعی
 وضعیت قیمت | لینک | موضوع
  | --- |--- | ---
- :free: | [API تقویم فارسی](https://farsicalendar.com/docs) | ارائه رویدادهای تقویم شمسی و قمری در قالب API
+ :free: | [API تقویم فارسی](https://farsicalendar.com/docs) | از دسترس خارج شده
+ :free: | [API تقویم فارسی + تعطیلات و مناسبت ها](https://pnldev.com/fa/api-doc/calender) | ارائه رویداد، مناسبت، تعطیلات تقویم ایران + تبدیل تاریخ شمسی قمری میلادی در قالب API 
  :free: | [API گاهشمار](http://gahshomar-api.herokuapp.com) | سرویس اپن‌سورس برای کار با زمان و تاریخ با قابلیت تبدیل تاریخ
  :free: | [API اوقات شرعی](http://prayer.aviny.com/PrayerTimes-WebService.aspx) | سرویس جهت دریافت اوقات شرعی شهرهای ایران
 
